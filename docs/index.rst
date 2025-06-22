@@ -5,8 +5,9 @@ Expert Water Damage Restoration Services in Naples, Florida
    :maxdepth: 2
    :caption: Contents:
 
-📞 `Call (833) 516-4490 <tel:+18335164490>`_
-
+.. image:: https://img.shields.io/badge/Call%20Now-(833)%20516--4490-blue?style=for-the-badge&logo=phone
+   :target: tel:+18335164490
+   :alt: Call Now
 When water damage strikes your Naples home or business, every minute counts. Whether you're dealing with a burst pipe, severe storm flooding, or appliance malfunction, Water Damage Restoration Naples stands ready to help restore your property quickly and efficiently.
 
 Your Trusted Local Water Damage Experts
