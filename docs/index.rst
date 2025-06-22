@@ -5,8 +5,66 @@ Expert Water Damage Restoration Services in Naples, Florida
    :maxdepth: 2
    :caption: Contents:
 
-[![Call Now - (833) 516-4490](https://img.shields.io/badge/Call%20Now-%20833%20516%204490-blue?style=for-the-badge)](tel:+18335164490)
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Call Button Demo</title>
+</head>
+<body>
+    <div style="padding: 20px; font-family: Arial, sans-serif;">
+        
+        <!-- COPY THIS CODE FOR YOUR WEBSITE -->
+        <a href="tel:+18335164490" class="call-button">
+            📞 Call (833) 516-4490
+        </a>
+        
+        <style>
+        .call-button {
+            display: inline-block;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 15px 30px;
+            text-decoration: none;
+            border-radius: 50px;
+            font-weight: bold;
+            font-size: 18px;
+            box-shadow: 0 4px 15px rgba(102, 126, 234, 0.4);
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+        
+        .call-button:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 20px rgba(102, 126, 234, 0.6);
+            color: white;
+            text-decoration: none;
+        }
+        
+        .call-button:active {
+            transform: translateY(0);
+            box-shadow: 0 2px 10px rgba(102, 126, 234, 0.4);
+        }
+        
+        /* Mobile optimization */
+        @media (max-width: 768px) {
+            .call-button {
+                padding: 12px 25px;
+                font-size: 16px;
+            }
+        }
+        </style>
+        
+        <br><br>
+        <p style="color: #666; font-size: 14px; max-width: 500px;">
+            This call button is ready to use on any website. Simply copy the HTML and CSS code above and paste it into your website. The button will automatically work on mobile devices to initiate phone calls and looks great on desktop too.
+        </p>
+        
+    </div>
+</body>
+</html>
 When water damage strikes your Naples home or business, every minute counts. Whether you're dealing with a burst pipe, severe storm flooding, or appliance malfunction, Water Damage Restoration Naples stands ready to help restore your property quickly and efficiently.
 
 Your Trusted Local Water Damage Experts
